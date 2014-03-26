@@ -9,6 +9,7 @@
    Slava Zanko <slavazanko@gmail.com>, 2013
    Andrew Borodin <aborodin@vmail.ru>, 2013
 
+
    This file is part of the Midnight Commander.
 
    The Midnight Commander is free software: you can redistribute it
