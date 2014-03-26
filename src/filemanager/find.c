@@ -548,7 +548,8 @@ find_parameters (char **start_dir, ssize_t * start_dir_len,
     {
         size_t i;
 
-        file_case_label = _(file_case_label);
+        file_name_label = _(file_name_label);
+	file_case_label = _(file_case_label);
         file_pattern_label = _(file_pattern_label);
         file_recurs_label = _(file_recurs_label);
        	file_only_directories_label = _(file_only_directories_label);
